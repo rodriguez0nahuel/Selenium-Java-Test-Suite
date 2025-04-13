@@ -1,0 +1,5 @@
+com\seleniumjava\pages\BasePage.class
+com\seleniumjava\utils\ExcelUtils.class
+com\seleniumjava\pages\HomePage.class
+com\seleniumjava\utils\Reporter.class
+com\seleniumjava\pages\RegistrationPage.class
